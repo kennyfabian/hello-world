@@ -17,7 +17,7 @@
 
 ### Linux & Services:
 
-- [**WHAT IS: LAMP Stack according to a Youtube video**](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
+- [**WHAT IS: LAMP Stack according to a weird nerd guy on Youtube**](https://www.youtube.com/watch?v=WY8jwTNYTfg)
 - [**GUIDE: Initial Server Setup with Ubuntu 18.04**](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
 - [**GUIDE: Install PHP (7, 7.2 or 7.3) on Ubuntu**](https://thishosting.rocks/install-php-on-ubuntu/)
 - [**GUIDE: How To Install NginX on Ubuntu 18.04**](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
