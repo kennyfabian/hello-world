@@ -33,6 +33,7 @@
 ### Other Knowledge:
 - [**DevOps: Revolution & Culture**](https://drive.google.com/file/d/1Zu5cvTNFaUSQoSs6a98KuhDpdOa2V1qg/view?usp=sharing) by [**Angel Adames**](https://github.com/angelmadames)
 - [**How Netflix Thinks of DevOps**](https://www.youtube.com/watch?v=UTKIT6STSVM)
+- [**New to Azure DevOps?: Azure DevOps Hands-On Labs**](https://www.azuredevopslabs.com/)
 - [**WHAT IS: LAMP Stack according to a weird nerd guy on Youtube**](https://www.youtube.com/watch?v=WY8jwTNYTfg)
 - [**SERIES: The Docker Ecosystem**](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
   - [**An Introduction to Common Components**](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components)
